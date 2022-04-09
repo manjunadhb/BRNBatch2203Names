@@ -1,18 +1,14 @@
 body
 {
-<<<<<<< HEAD
+
 
     background-color: rgb(204, 121, 19);
     text-align: center;
 
-=======
-    background-color: black;
-    text-align: center;
 }
 
 h1{
     color: white;
->>>>>>> 8378b66eeb413d0222988dc1b953997519fda186
 }
 #ck{
     background-color: aqua;
